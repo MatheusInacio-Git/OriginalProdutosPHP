@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="assets/img/logo.png" alt="Original Produtos" width="200" />
 </p>
